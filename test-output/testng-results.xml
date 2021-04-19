@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12547" started-at="2021-04-18T16:21:24Z" finished-at="2021-04-18T16:21:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12547" started-at="2021-04-18T16:21:24Z" finished-at="2021-04-18T16:21:37Z">
+      <class name="ICEYEAPI.GetAPITest">
+        <test-method status="PASS" signature="TestDemo()[pri:0, instance:ICEYEAPI.GetAPITest@5e4c8041]" name="TestDemo" is-config="true" duration-ms="430" started-at="2021-04-18T16:21:29Z" finished-at="2021-04-18T16:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDemo -->
+        <test-method status="PASS" signature="getAPITest()[pri:1, instance:ICEYEAPI.GetAPITest@5e4c8041]" name="getAPITest" duration-ms="2835" started-at="2021-04-18T16:21:30Z" finished-at="2021-04-18T16:21:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+        <test-method status="PASS" signature="getAPITest_date()[pri:2, instance:ICEYEAPI.GetAPITest@5e4c8041]" name="getAPITest_date" duration-ms="4107" started-at="2021-04-18T16:21:33Z" finished-at="2021-04-18T16:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest_date -->
+      </class> <!-- ICEYEAPI.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
